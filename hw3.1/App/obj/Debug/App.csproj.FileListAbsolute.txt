@@ -1,0 +1,11 @@
+C:\mongo\hw3.1\App\bin\Debug\App.exe.config
+C:\mongo\hw3.1\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\mongo\hw3.1\App\bin\Debug\App.exe
+C:\mongo\hw3.1\App\bin\Debug\App.pdb
+C:\mongo\hw3.1\App\bin\Debug\MongoDB.Bson.dll
+C:\mongo\hw3.1\App\bin\Debug\MongoDB.Driver.Core.dll
+C:\mongo\hw3.1\App\bin\Debug\MongoDB.Driver.dll
+C:\mongo\hw3.1\App\bin\Debug\MongoDB.Bson.xml
+C:\mongo\hw3.1\App\bin\Debug\MongoDB.Driver.xml
+C:\mongo\hw3.1\App\obj\Debug\App.exe
+C:\mongo\hw3.1\App\obj\Debug\App.pdb
